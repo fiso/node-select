@@ -1,0 +1,9 @@
+{
+  "name": "select",
+  "version": "0.1.0",
+  "description": "Select is syntactic sugar to help maintain a functional approach to assigning to variables.",
+  "main": "select.js",
+  "author": "Filip Haglund",
+  "license": "ISC",
+  "repository": "https://github.com/fiso/node-select"
+}
