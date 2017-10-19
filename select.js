@@ -27,6 +27,9 @@
 
 */
 
-export function select (criteria, selector) {
-  return selector(criteria);
-}
+
+module.exports = {
+  select: function (criteria, selector) {
+    return selector(criteria);
+  }
+};
