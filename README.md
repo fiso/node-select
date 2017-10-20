@@ -1,4 +1,4 @@
-# select
+# node-select 
 Select is syntactic sugar to help maintain a functional approach to assigning to variables. It lets you avoid reassigning, so you can keep things const-y, if you're into that sort of thing. 🤷🏽‍
 
 ## Usage
@@ -40,7 +40,7 @@ Good old self-invocing function pattern. Well, if you're still not quite happy, 
 
 ## Plans for world domination
 
-In my future, EcmaScript will support this syntax:
+In my future, ECMAScript will support this syntax:
 ```js
   const o = select (criteriaObject) {
     if (this.someCondition) {
