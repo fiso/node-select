@@ -1,5 +1,5 @@
 # select
-Select is syntactic sugar to help maintain a functional approach to assigning to variables. It lets you avoid reassigning, so you can keep things const-y, if you're into that sort of thing. 🤷🏽‍♀️
+Select is syntactic sugar to help maintain a functional approach to assigning to variables. It lets you avoid reassigning, so you can keep things const-y, if you're into that sort of thing. 🤷🏽‍
 
 ## Usage
 
